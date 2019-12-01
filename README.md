@@ -1,3 +1,21 @@
+# VR Display of the Labermeier Bassett Collection of Stereoscopic Images of Human Anatomy
+
+
+
+## Installation 
+
+## Usage 
+
+## Authors 
+
+* **Julianne Griffith** - [julgriff](https://github.com/julgriff)
+
+* **Gaoyang Mi** - [desmediocre](https://github.com/desmediocre)
+
+* **Juecen Zhan** - [zhanjuecen](https://github.com/zhanjuecen)
+
+* **Amanda Sisung** - [sisungaj](https://github.com/sisungaj)
+
 This is the stereogram project
 
 Sprint 1: Became familiar with Stereogram Sample Scene, made diorama with provided stereogram pairs
