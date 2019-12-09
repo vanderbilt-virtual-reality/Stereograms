@@ -4,7 +4,11 @@ Stereograms are sets of pictures that, when viewed at a specific position relati
 
 ## Installation 
 
+This project uses Unity 2019.2.6f1, Oculus 1.38, [Oculus Intergration 1.42](https://assetstore.unity.com/publishers/25353), and Tataragne Interactive's [Anatomic Pack](https://assetstore.unity.com/packages/3d/props/anatomic-pack-79612)
+
 ## Usage 
+
+Oculus button A is used to select catagory. Oculus button Y is used to switch to next picture. 
 
 ## Authors 
 
@@ -16,23 +20,3 @@ Stereograms are sets of pictures that, when viewed at a specific position relati
 
 * **Amanda Sisung** - [sisungaj](https://github.com/sisungaj)
 
-## Notes 
-
-This is the stereogram project
-
-Sprint 1: Became familiar with Stereogram Sample Scene, made diorama with provided stereogram pairs
-Sprint 2: Made basic environment for Medical Image Collections, wrote script to pull images from online source
-
-10/17-10/29: Finished Demo, made images appear 3D, added oculus 
-
-Sprint 3: Add on to Medical Image environment: add more scenes for each body part, add billboards, title billboards, add script to billboards. 
-
-12/2: Folders from medical collection to be used in Demo: 
-      Abdomen 
-      Back (maybe?)
-      Brain 
-      Leg
-      Neck 
-      Pelvis
-      Thorax
-      Upper extremity 
